@@ -1,0 +1,1 @@
+// Serializes all enums in the modpack
